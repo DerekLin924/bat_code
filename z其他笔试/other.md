@@ -51,6 +51,8 @@
 
 
 ### 科大讯飞
+[2026 科大讯飞笔试 科大讯飞机考开发岗 8 月 9 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e06bca6a04a44c9f89b53f2136fd6ee6)
+
 [2025 科大讯飞笔试 科大讯飞秋招 科大讯飞笔试题 0927](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=56049824e7884da1910697d5f1bdb98c)
 
 [2025 科大讯飞笔试 科大讯飞秋招 0920](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8ce4f6a2324a4a2b9d58556cea6ab149)
@@ -77,6 +79,8 @@
 
 
 ### 联想
+[2026 联想笔试 联想机考 8 月 7 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=22cd7d53b37f4aebb993198d0a2fb9d1)
+
 [2025 联想笔试 联想笔试题 0829](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=271b49d0b6b34b9eab2cf5c8d1a7cf9a)
 
 [2025 联想笔试 联想笔试题 0330](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f83d45488a5a4d29b820bc583d39240a)
@@ -101,6 +105,10 @@
 
 
 ### 京东
+[2026 京东笔试 数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46e5fb3e2ca449b28da5e0bf796f6304)
+
+[2026 京东笔试 京东机考数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=7e36535bbc224df4a4944a470aaab06a)
+
 [2026 京东笔试 京东笔试题 0314](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=7172136bd9734c04bbb53061281fe6d8)
 
 [2025 京东笔试 京东秋招 京东笔试题 1108](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=196a3b95dcc1400f8d26de9068fa1445)

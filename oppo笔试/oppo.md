@@ -1,6 +1,8 @@
 
 
 ### oppo
+[2026 OPPO笔试 OPPO 机考 AI 算法岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bfdd20da36f64ff79014cab828976835)
+
 [2025 oppo笔试 oppo笔试题 0802](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=7afcd67716094715acdcc577f6de5f96)
 
 [2025 oppo笔试 oppo笔试题 0510](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=236554983e3c466388f70e8d284170bf)
