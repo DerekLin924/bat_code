@@ -14,6 +14,10 @@
 
 
 ### 阿里
+[2026 阿里巴巴笔试 工程岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=978defb6fa9c446fb338377d8633822c)
+
+[2026 阿里巴巴笔试 Agent 开发岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=80483f415c4b42fcba01a7969d252b75)
+
 [2026 阿里笔试 阿里算法岗暑期实习/春招机考 0523](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=cbbf659059f54b68b25f5c2fee3eb80d)
 
 [2026 阿里实习笔试 阿里春招实习 阿里笔试真题解析 0401](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bbca0cba23e74a5eb619662a4c2dcbb1)
@@ -146,6 +150,8 @@
 
 
 ### 美团
+[2026 美团笔试 美团秋招第一批机考，AI Coding！8 月 18 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1640578857154293be5b0fe3bc4c6a06)
+
 [2026 美团笔试 美团技术方向暑期实习/机考 0516](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f9f21a0bf81845369f1388ef8877278b)
 
 [2026 美团笔试 美团算法方向暑期实习/机考 0516](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=a23facecfd4641e8b6d5c51f63885721)
@@ -216,6 +222,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多机考 8 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3bfa823c52b34c6f8302febafe6e50a0)
+
 [2026 拼多多笔试 拼多多开发岗实习机考｜ 最新笔试题与解析 0702](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=344a7acd19704a5fa3c5af1f8ff900d1)
 
 [2026 拼多多笔试 拼多多算法方向暑期实习/机考 | 最新笔试题与解析 0517](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0e2a79ab726747b386c51a2cfdfc1157)
@@ -646,6 +654,8 @@
 
 
 ### 大疆
+[2026 大疆笔试 大疆算法岗笔试题与解析 0814](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4d80d8d715bb4bf2805f2d32f39f2dfd)
+
 [2025 大疆笔试 大疆笔试题 0817](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=21175ca592ca4d31a9485bfa767d12d9)
 
 [2025 大疆笔试 大疆笔试题 0810](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=139400d9f94d4dafae641143e1d30a11)
@@ -830,6 +840,8 @@
 
 
 ### 京东
+[2026 京东笔试 京东机考算法岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=567e0d7827e84c508c97c439b1a220a2)
+
 [2026 京东笔试 数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46e5fb3e2ca449b28da5e0bf796f6304)
 
 [2026 京东笔试 京东机考数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=7e36535bbc224df4a4944a470aaab06a)

@@ -1,6 +1,8 @@
 见README.md
 
 ### 大疆
+[2026 大疆笔试 大疆算法岗笔试题与解析 0814](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4d80d8d715bb4bf2805f2d32f39f2dfd)
+
 [2025 大疆笔试 大疆笔试题 0817](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=21175ca592ca4d31a9485bfa767d12d9)
 
 [2025 大疆笔试 大疆笔试题 0810](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=139400d9f94d4dafae641143e1d30a11)
@@ -105,6 +107,8 @@
 
 
 ### 京东
+[2026 京东笔试 京东机考算法岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=567e0d7827e84c508c97c439b1a220a2)
+
 [2026 京东笔试 数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46e5fb3e2ca449b28da5e0bf796f6304)
 
 [2026 京东笔试 京东机考数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=7e36535bbc224df4a4944a470aaab06a)

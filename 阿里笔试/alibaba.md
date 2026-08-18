@@ -1,6 +1,10 @@
 
 
 ### 阿里
+[2026 阿里巴巴笔试 工程岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=978defb6fa9c446fb338377d8633822c)
+
+[2026 阿里巴巴笔试 Agent 开发岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=80483f415c4b42fcba01a7969d252b75)
+
 [2026 阿里笔试 阿里算法岗暑期实习/春招机考 0523](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=cbbf659059f54b68b25f5c2fee3eb80d)
 
 [2026 阿里实习笔试 阿里春招实习 阿里笔试真题解析 0401](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bbca0cba23e74a5eb619662a4c2dcbb1)

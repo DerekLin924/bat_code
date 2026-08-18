@@ -1,6 +1,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多机考 8 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3bfa823c52b34c6f8302febafe6e50a0)
+
 [2026 拼多多笔试 拼多多开发岗实习机考｜ 最新笔试题与解析 0702](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=344a7acd19704a5fa3c5af1f8ff900d1)
 
 [2026 拼多多笔试 拼多多算法方向暑期实习/机考 | 最新笔试题与解析 0517](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0e2a79ab726747b386c51a2cfdfc1157)
