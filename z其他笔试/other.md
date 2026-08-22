@@ -107,6 +107,8 @@
 
 
 ### 京东
+[2026 京东笔试 京东机考 8 月 22 日算法方向笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8b3c659b4e5a41cda348385619672318)
+
 [2026 京东笔试 京东机考算法岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=567e0d7827e84c508c97c439b1a220a2)
 
 [2026 京东笔试 数据分析岗 8 月 8 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46e5fb3e2ca449b28da5e0bf796f6304)
