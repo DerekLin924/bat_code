@@ -9,4 +9,4 @@
 
 [2023 字节笔试题 字节笔试 0820](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=10bf9c9ff73e475e9cfa413ba32a35d3)
 
-[2023 字节笔试题 字节笔试 0512](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=5daaee77536347b8a71a9b7304912c5d)
+[2023 字节笔试题 字节笔试 0512](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=57eec8ca5d5d46af90aea60ba2d5b124)

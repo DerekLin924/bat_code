@@ -137,6 +137,18 @@
 
 [2025 京东笔试 京东笔试题 0315](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2d000e9d471a428b801d12c8f6866a8d)
 
+[2023 京东笔试题 0923](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=a858e3ddcf4b405aa4cde909ddf57c4d)
+
+[2023 京东笔试题 0916](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=c1ddfc0b437341ee8a513d98f6ff287b)
+
+[2023 京东笔试题 0909](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=15199b7e68c34a0a89cd21dc79436f75)
+
+[2023 京东笔试题 0902](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=ed5725c2d9cb4218965e818e4eb21c94)
+
+[2023 京东笔试题 0826](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=fe8d8a6873ea46c1a9b87add629db28f)
+
+[2023 京东笔试题 0819](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ODrNm&uuid=a5e2dd01879e4dc09510f22424663e0a)
+
 
 ### 美的
 [2025 美的笔试 美的笔试题 0316](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=04a85be98b264b2b9bd03719bcbebd26)
