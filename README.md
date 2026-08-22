@@ -308,6 +308,8 @@
 
 
 ### 百度
+[2026 百度笔试 百度机考算法方向 笔试题与解析 0820](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=16fbc044ed3f4165b8be33e90976a358)
+
 [2026 百度笔试 百度机考算法岗 笔试题与解析 0806](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ec759041a5bf4d41ba6ef84964dfc7e7)
 
 [2026 百度笔试 百度秋招 算法岗机考题与解析 0723](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3ccba7c70718448896e584a60d619fc1)
@@ -336,6 +338,8 @@
 
 
 ### 网易
+[2026 网易笔试 网易机考 AI Coding 笔试题与解析 0818](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e08f5d8a398c4c14b0b2e46c1e5f3d92)
+
 [2026 网易笔试 网易春招实习 网易笔试真题解析 0402](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c09faa277f3d4c67863a380d4680657f)
 
 [2025 网易笔试 网易秋招 网易笔试题 1012](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=a62a532c95ea495bbf6c4538554999fa)
@@ -354,6 +358,10 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考 AI 方向 笔试题与解析 0819](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3adfa8417d4940b6abf23617ce83a74b)
+
+[2026 华为笔试 华为机考非AI方向 笔试题与解析 0819](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=31d451bb7d7f415fb95d635034ccdf8c)
+
 [2026 华为笔试 华为机考 AI 方向 笔试题与解析 0805](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=778a90d959cc41de9cca121750c4b712)
 
 [2026 华为笔试 华为机考 AI 方向 机考题与解析 0724](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ec2a64d9a562427fb1164da5e16b4089)
