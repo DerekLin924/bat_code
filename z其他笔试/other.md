@@ -195,6 +195,8 @@
 
 
 ### 文远知行
+[2026 文远笔试 文远机考 8 月 23 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=92878d19cd6742059a6cfde7cc898a29)
+
 [2025 文远知行笔试 文远知行秋招 0916](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=356a0923a1f043ec93b194cfb57628df)
 
 [2025 文远知行笔试 文远知行笔试题 0727](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=276c551305904c369b1a6d2e9aff6e0d)

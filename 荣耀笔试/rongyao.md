@@ -1,6 +1,8 @@
 
 
 ### 荣耀
+[2026 荣耀笔试 荣耀机考数据分析岗 8 月 25 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=43d0602852f546d5924fcc5bab9742b2)
+
 [2026 荣耀笔试 荣耀暑期实习/春招机考 | 最新笔试题与解析 0507](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ad74c7b51c544e819efae93f9b8622e5)
 
 [2026 荣耀笔试 荣耀暑期实习/春招机考 | 最新笔试题与解析 0506](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=91699ecca87040d48a4e8f02b7d75cbb)

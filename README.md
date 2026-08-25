@@ -150,6 +150,8 @@
 
 
 ### 美团
+[2026 美团笔试 美团 8 月 25 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c46761196ccb4f17bbca6615bea22a6b)
+
 [2026 美团笔试 美团秋招第一批机考，AI Coding！8 月 18 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1640578857154293be5b0fe3bc4c6a06)
 
 [2026 美团笔试 美团技术方向暑期实习/机考 0516](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f9f21a0bf81845369f1388ef8877278b)
@@ -222,6 +224,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多机考 8 月 23 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f1486cc2ba9a4a3cb45e0c3e1aa44142)
+
 [2026 拼多多笔试 拼多多机考 8 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3bfa823c52b34c6f8302febafe6e50a0)
 
 [2026 拼多多笔试 拼多多开发岗实习机考｜ 最新笔试题与解析 0702](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=344a7acd19704a5fa3c5af1f8ff900d1)
@@ -512,6 +516,8 @@
 
 
 ### 荣耀
+[2026 荣耀笔试 荣耀机考数据分析岗 8 月 25 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=43d0602852f546d5924fcc5bab9742b2)
+
 [2026 荣耀笔试 荣耀暑期实习/春招机考 | 最新笔试题与解析 0507](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ad74c7b51c544e819efae93f9b8622e5)
 
 [2026 荣耀笔试 荣耀暑期实习/春招机考 | 最新笔试题与解析 0506](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=91699ecca87040d48a4e8f02b7d75cbb)
@@ -936,6 +942,8 @@
 
 
 ### 文远知行
+[2026 文远笔试 文远机考 8 月 23 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=92878d19cd6742059a6cfde7cc898a29)
+
 [2025 文远知行笔试 文远知行秋招 0916](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=356a0923a1f043ec93b194cfb57628df)
 
 [2025 文远知行笔试 文远知行笔试题 0727](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=276c551305904c369b1a6d2e9aff6e0d)
