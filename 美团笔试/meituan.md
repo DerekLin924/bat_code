@@ -1,6 +1,8 @@
 
 
 ### 美团
+[2026 美团笔试-美团8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=dc58f7507d904bd593fc0be865eb976b)
+
 [2026 美团笔试 美团 8 月 25 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c46761196ccb4f17bbca6615bea22a6b)
 
 [2026 美团笔试 美团秋招第一批机考，AI Coding！8 月 18 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1640578857154293be5b0fe3bc4c6a06)

@@ -14,6 +14,8 @@
 
 
 ### 阿里
+[2026 阿里笔试-阿里8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f9b51f27558242558be2dfddc1668835)
+
 [2026 阿里巴巴笔试 工程岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=978defb6fa9c446fb338377d8633822c)
 
 [2026 阿里巴巴笔试 Agent 开发岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=80483f415c4b42fcba01a7969d252b75)
@@ -150,6 +152,8 @@
 
 
 ### 美团
+[2026 美团笔试-美团8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=dc58f7507d904bd593fc0be865eb976b)
+
 [2026 美团笔试 美团 8 月 25 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c46761196ccb4f17bbca6615bea22a6b)
 
 [2026 美团笔试 美团秋招第一批机考，AI Coding！8 月 18 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1640578857154293be5b0fe3bc4c6a06)
@@ -224,6 +228,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试-拼多多8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=9edec7e07cf3429db295bf4bc938ae3b)
+
 [2026 拼多多笔试 拼多多机考 8 月 23 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f1486cc2ba9a4a3cb45e0c3e1aa44142)
 
 [2026 拼多多笔试 拼多多机考 8 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3bfa823c52b34c6f8302febafe6e50a0)
@@ -312,6 +318,8 @@
 
 
 ### 百度
+[2026 百度笔试 百度 8 月 27 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1d8d8093b4a1491bbe5b15e5b0d4fbee)
+
 [2026 百度笔试 百度机考算法方向 笔试题与解析 0820](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=16fbc044ed3f4165b8be33e90976a358)
 
 [2026 百度笔试 百度机考算法岗 笔试题与解析 0806](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ec759041a5bf4d41ba6ef84964dfc7e7)
@@ -684,6 +692,8 @@
 
 
 ### 滴滴
+[2026 滴滴笔试-滴滴8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8a6084a944824b8292f5fe3753b97d66)
+
 [2026 滴滴笔试 滴滴笔试题 滴滴笔试真题解析 0315](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=6563b83683174bff88bee5d1778ae510)
 
 [2026 滴滴笔试 滴滴笔试题 0308](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c98fe9046d2642d8bbe4c7df39b3d5f5)
@@ -706,6 +716,8 @@
 
 
 ### 得物
+[2026 得物笔试-得物8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=84cc549a2062454cbd029fba8daff058)
+
 [2025 得物笔试 得物秋招 得物笔试题 1025](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=fe9177b6ade24fd8bc4e5a420e269438)
 
 [2025 得物笔试 得物秋招 得物笔试题 1019](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=93c6f7baa6e845f8ba6e46d3566f728b)
@@ -858,6 +870,8 @@
 
 
 ### 京东
+[2026 京东笔试-京东8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=65406ab16fc74808a56ba42c732aa151)
+
 [2026 京东笔试 京东机考 8 月 22 日算法方向笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8b3c659b4e5a41cda348385619672318)
 
 [2026 京东笔试 京东机考算法岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=567e0d7827e84c508c97c439b1a220a2)

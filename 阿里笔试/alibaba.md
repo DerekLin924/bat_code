@@ -1,6 +1,8 @@
 
 
 ### 阿里
+[2026 阿里笔试-阿里8 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f9b51f27558242558be2dfddc1668835)
+
 [2026 阿里巴巴笔试 工程岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=978defb6fa9c446fb338377d8633822c)
 
 [2026 阿里巴巴笔试 Agent 开发岗 8 月 15 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=80483f415c4b42fcba01a7969d252b75)

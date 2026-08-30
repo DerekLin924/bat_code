@@ -1,6 +1,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试-拼多多8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=9edec7e07cf3429db295bf4bc938ae3b)
+
 [2026 拼多多笔试 拼多多机考 8 月 23 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=f1486cc2ba9a4a3cb45e0c3e1aa44142)
 
 [2026 拼多多笔试 拼多多机考 8 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=3bfa823c52b34c6f8302febafe6e50a0)
