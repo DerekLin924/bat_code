@@ -232,6 +232,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多9 月 13 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=5070a78804c84afa8f56c9cefbba3e19)
+
 [2026 拼多多笔试 拼多多 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=caa1e5800c2340a99df3c7b991656692)
 
 [2026 拼多多笔试-拼多多8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=9edec7e07cf3429db295bf4bc938ae3b)
@@ -378,6 +380,10 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考非AI方向9 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46698e25af3b4a06907aac83639e1239)
+
+[2026 华为笔试 华为机考AI方向9 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=14378f334a964feda14c2d6de9d3920c)
+
 [2026 华为笔试 华为机考AI方向9 月 11 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=fa5ddc6a263848cc89c13b0024f753be)
 
 [2026 华为笔试 华为机考非AI方向9 月 11 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=b39a46d5a79d4b06ac92aa274c6ad7ad)
@@ -612,6 +618,8 @@
 
 
 ### 小红书
+[2026 小红书笔试 小红书9 月 13 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d3eeb316cabe4007b2c5df9e6cfae328)
+
 [2026 小红书笔试 小红书9 月 10 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=df393a7d476c4cad9f454b164c65c0ef)
 
 [2026 小红书笔试 小红书 春招实习笔试真题 0325](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=163e5b8960f546cba36489473a419072)

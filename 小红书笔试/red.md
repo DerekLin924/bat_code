@@ -1,6 +1,8 @@
 
 
 ### 小红书
+[2026 小红书笔试 小红书9 月 13 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d3eeb316cabe4007b2c5df9e6cfae328)
+
 [2026 小红书笔试 小红书9 月 10 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=df393a7d476c4cad9f454b164c65c0ef)
 
 [2026 小红书笔试 小红书 春招实习笔试真题 0325](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=163e5b8960f546cba36489473a419072)
