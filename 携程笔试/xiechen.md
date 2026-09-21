@@ -1,6 +1,8 @@
 
 
 ### 携程
+[2026 携程笔试 携程9 月 20 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2a923305d9f34aebad38387e348bb9b9)
+
 [2026 携程笔试 携程 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=831e972ed5134432a9152a7412c2fbbd)
 
 [2026 携程笔试 携程暑期实习/机考 | 最新笔试题与解析 0510](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=af12b353f67849c68d9ef306500ad13c)

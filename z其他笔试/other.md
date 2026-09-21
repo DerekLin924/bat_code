@@ -11,6 +11,8 @@
 
 
 ### 滴滴
+[2026 滴滴笔试 滴滴9 月 19 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1d6b05090e5644eab287a71a75ed38cc)
+
 [2026 滴滴笔试 滴滴 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d0fb02111bee4ad4816062303b017689)
 
 [2026 滴滴笔试-滴滴8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8a6084a944824b8292f5fe3753b97d66)
@@ -121,6 +123,8 @@
 
 
 ### 京东
+[2026 京东笔试 京东9 月 19 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=db94cb0d3f2d4fabb19c5871b8fbe5b7)
+
 [2026 京东笔试 京东 9 月 5 日 算法岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=af743d13b1994673989f29337d026655)
 
 [2026 京东笔试 京东 9 月 5 日 开发岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2e91a78e3d164c1fb3ff160350fc1e6f)

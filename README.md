@@ -380,6 +380,10 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考非AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d4f5b9d28e5f4c35ada42ffa821c01db)
+
+[2026 华为笔试 华为机考AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=271f55a6c24a4e3991d1112ef79d402d)
+
 [2026 华为笔试 华为机考非AI方向9 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=46698e25af3b4a06907aac83639e1239)
 
 [2026 华为笔试 华为机考AI方向9 月 16 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=14378f334a964feda14c2d6de9d3920c)
@@ -682,6 +686,8 @@
 
 
 ### 携程
+[2026 携程笔试 携程9 月 20 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2a923305d9f34aebad38387e348bb9b9)
+
 [2026 携程笔试 携程 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=831e972ed5134432a9152a7412c2fbbd)
 
 [2026 携程笔试 携程暑期实习/机考 | 最新笔试题与解析 0510](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=af12b353f67849c68d9ef306500ad13c)
@@ -728,6 +734,8 @@
 
 
 ### 滴滴
+[2026 滴滴笔试 滴滴9 月 19 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1d6b05090e5644eab287a71a75ed38cc)
+
 [2026 滴滴笔试 滴滴 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d0fb02111bee4ad4816062303b017689)
 
 [2026 滴滴笔试-滴滴8 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8a6084a944824b8292f5fe3753b97d66)
@@ -920,6 +928,8 @@
 
 
 ### 京东
+[2026 京东笔试 京东9 月 19 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=db94cb0d3f2d4fabb19c5871b8fbe5b7)
+
 [2026 京东笔试 京东 9 月 5 日 算法岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=af743d13b1994673989f29337d026655)
 
 [2026 京东笔试 京东 9 月 5 日 开发岗机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=2e91a78e3d164c1fb3ff160350fc1e6f)
