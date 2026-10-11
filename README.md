@@ -232,6 +232,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多9 月 22 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0f2c89a4750d49d5ae913e38157dd268)
+
 [2026 拼多多笔试 拼多多9 月 13 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=5070a78804c84afa8f56c9cefbba3e19)
 
 [2026 拼多多笔试 拼多多 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=caa1e5800c2340a99df3c7b991656692)
@@ -360,6 +362,8 @@
 
 
 ### 网易
+[2026 网易笔试 网易9 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ae643ecbd4ac4c269f113241b284e65f)
+
 [2026 网易笔试 网易机考 AI Coding 笔试题与解析 0818](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e08f5d8a398c4c14b0b2e46c1e5f3d92)
 
 [2026 网易笔试 网易春招实习 网易笔试真题解析 0402](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c09faa277f3d4c67863a380d4680657f)
@@ -380,6 +384,14 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考非AI方向10 月 10 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4a5f9db6275e4dbabc28dd87f83d867b)
+
+[2026 华为笔试 华为机考AI方向10 月 10 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=94bd9b09c88746d9abcfbe965faf06cc)
+
+[2026 华为笔试 华为机考非AI方向9 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8fcd45a47581470585a3784dd92e43b3)
+
+[2026 华为笔试 华为机考AI方向9 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ac9903fefc9e487e935b0cd6205d0073)
+
 [2026 华为笔试 华为机考非AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d4f5b9d28e5f4c35ada42ffa821c01db)
 
 [2026 华为笔试 华为机考AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=271f55a6c24a4e3991d1112ef79d402d)
@@ -558,6 +570,8 @@
 
 
 ### 荣耀
+[2026 荣耀笔试 荣耀9 月 30 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c1f0c34769144e17ae95284c7a272859)
+
 [2026 荣耀笔试 荣耀机考数据分析岗 8 月 25 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=43d0602852f546d5924fcc5bab9742b2)
 
 [2026 荣耀笔试 荣耀暑期实习/春招机考 | 最新笔试题与解析 0507](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ad74c7b51c544e819efae93f9b8622e5)

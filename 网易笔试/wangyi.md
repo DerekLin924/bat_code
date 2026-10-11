@@ -1,6 +1,8 @@
 
 
 ### 网易
+[2026 网易笔试 网易9 月 29 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ae643ecbd4ac4c269f113241b284e65f)
+
 [2026 网易笔试 网易机考 AI Coding 笔试题与解析 0818](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=e08f5d8a398c4c14b0b2e46c1e5f3d92)
 
 [2026 网易笔试 网易春招实习 网易笔试真题解析 0402](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c09faa277f3d4c67863a380d4680657f)

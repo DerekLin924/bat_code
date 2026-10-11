@@ -1,6 +1,14 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考非AI方向10 月 10 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4a5f9db6275e4dbabc28dd87f83d867b)
+
+[2026 华为笔试 华为机考AI方向10 月 10 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=94bd9b09c88746d9abcfbe965faf06cc)
+
+[2026 华为笔试 华为机考非AI方向9 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=8fcd45a47581470585a3784dd92e43b3)
+
+[2026 华为笔试 华为机考AI方向9 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ac9903fefc9e487e935b0cd6205d0073)
+
 [2026 华为笔试 华为机考非AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d4f5b9d28e5f4c35ada42ffa821c01db)
 
 [2026 华为笔试 华为机考AI方向 9 月 18 日 笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=271f55a6c24a4e3991d1112ef79d402d)
