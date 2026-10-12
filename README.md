@@ -232,6 +232,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多 2026 年 10 月 11 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=b186d67e2711452fa650da6852cef268)
+
 [2026 拼多多笔试 拼多多9 月 22 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0f2c89a4750d49d5ae913e38157dd268)
 
 [2026 拼多多笔试 拼多多9 月 13 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=5070a78804c84afa8f56c9cefbba3e19)
@@ -682,6 +684,8 @@
 
 
 ### 米哈游
+[2026 米哈游笔试 米哈游 2026 年 10 月 11 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=fed19bcdd0d94c7690603220869a05f1)
+
 [2026 米哈游 米哈游 9 月 6 日 机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=cbd7d22605784510b84d1f7d9fd8c7af)
 
 [2025 米哈游笔试 米哈游秋招 米哈游笔试题 1026](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ee19f6bacb1e46808b1e939070a9bcd5)
