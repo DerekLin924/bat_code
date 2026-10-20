@@ -938,6 +938,8 @@
 
 
 ### 中国电信
+[2026 中国电信笔试 中国电信10 月 17 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bf6f367767be4f978b7758e2a702672f)
+
 [2025 中国电信笔试 中国电信秋招 中国电信笔试题 1025](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=be06e511a4274204ae3a59d6a158ad39)
 
 [2025 中国电信笔试 中国电信秋招 中国电信笔试题 1011](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=44c569dfc1e74a729da9f2b9619c9da0)
