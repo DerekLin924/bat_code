@@ -232,6 +232,8 @@
 
 
 ### 拼多多
+[2026 拼多多笔试 拼多多 10 月 25 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=03d66f2876b348518d37cc9c73a100d2)
+
 [2026 拼多多笔试 拼多多 2026 年 10 月 11 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=b186d67e2711452fa650da6852cef268)
 
 [2026 拼多多笔试 拼多多9 月 22 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=0f2c89a4750d49d5ae913e38157dd268)
@@ -386,6 +388,14 @@
 
 
 ### 华为
+[2026 华为笔试 华为机考非AI方向11 月 6 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=d583e281910d484db77d8a0d588703a4)
+
+[2026 华为笔试 华为机考AI方向11 月 6 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=67277a52e4a543fe9fa2c33a2c04180f)
+
+[2026 华为笔试 华为机考非 AI 方向 10 月 28 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=c0e7ad7db74a4f9f9d09bb83ea32fe6d)
+
+[2026 华为笔试 华为机考 AI 方向 10 月 28 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=957fc9bb8023439f8d15037c4fb24cae)
+
 [2026 华为笔试 华为机考非 AI 方向 10 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=ef2caa3ade2c422396421a1a00a130be)
 
 [2026 华为笔试 华为机考 AI 方向 10 月 23 日笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1e73ff82a0114f80923130bfed45d052)
@@ -946,6 +956,8 @@
 
 
 ### 中国电信
+[2026 中国电信笔试 中国电信10 月 31 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=49915c2710394bb98afa3cad2a96ff7c)
+
 [2026 中国电信笔试 中国电信10 月 17 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bf6f367767be4f978b7758e2a702672f)
 
 [2025 中国电信笔试 中国电信秋招 中国电信笔试题 1025](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=be06e511a4274204ae3a59d6a158ad39)
