@@ -1,5 +1,5 @@
 ## BAT 笔试面试合集
-按公司/机构分类收录开发、算法等岗位笔试真题与面经，覆盖：字节跳动、阿里、腾讯、美团、拼多多、蚂蚁金服、百度、网易、华为、荣耀、小米、OPPO、小红书、bilibili、米哈游、携程、快手、大疆、滴滴、得物、科大讯飞、SHEIN、招商银行、招银网络、深信服、用友、顺丰、微众银行、奇安信、联想、58 同城、图森未来、富途、去哪儿、蔚来、茄子科技、猿辅导、中国电信、京东、美的、众安保险、360、虾皮、中国银行、民生银行、柠檬微趣、文远知行、灵犀互娱、vivo、FunPlus、吉比特、天翼云、理想汽车、广联达、迅雷、中兴、同程、极兔快递、金山、恒生电子、中国移动、DeepSeek。各小节内按笔试时间从近到远排列，文章标题和链接均见对应小节，持续更新中。
+按公司/机构分类收录开发、算法等岗位笔试真题与面经，覆盖：字节跳动、阿里、腾讯、美团、拼多多、蚂蚁金服、百度、网易、华为、荣耀、小米、OPPO、小红书、bilibili、米哈游、携程、快手、大疆、滴滴、得物、科大讯飞、SHEIN、招商银行、招银网络、深信服、用友、顺丰、微众银行、奇安信、联想、58 同城、图森未来、富途、去哪儿、蔚来、茄子科技、猿辅导、中国电信、京东、美的、众安保险、360、虾皮、中国银行、民生银行、柠檬微趣、文远知行、灵犀互娱、vivo、FunPlus、吉比特、天翼云、理想汽车、广联达、迅雷、中兴、同程、极兔快递、金山、恒生电子、中国移动、DeepSeek、上海 AiLab。各小节内按笔试时间从近到远排列，文章标题和链接均见对应小节，持续更新中。
 
 ### 字节跳动
 [2025 字节笔试 字节笔试题 0504](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=4ba0c577dabb4b90b6daade7b829f32c)
@@ -956,6 +956,8 @@
 
 
 ### 中国电信
+[2026 中国电信笔试 中国电信11 月 14 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=995b86ad305c4584ac7a21b2edf320bd)
+
 [2026 中国电信笔试 中国电信10 月 31 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=49915c2710394bb98afa3cad2a96ff7c)
 
 [2026 中国电信笔试 中国电信10 月 17 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bf6f367767be4f978b7758e2a702672f)
@@ -1137,3 +1139,7 @@
 
 ### DeepSeek
 [2026 DeepSeek Agent 开发岗实习机考 0712](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=24a26561874642aea10f144a566d14ce)
+
+
+### 上海 AiLab
+[2026 上海 AiLab笔试 上海AI Lab11 月 7 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=1bc7ad1fd0a24c2d901bf4ddd09173ea)

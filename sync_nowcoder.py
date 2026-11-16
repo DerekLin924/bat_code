@@ -122,6 +122,7 @@ COMPANY_KEYWORDS = [
     ("恒生电子", ["恒生电子"]),
     ("中国移动", ["中国移动"]),
     ("DeepSeek", ["DeepSeek", "deepseek"]),
+    ("上海 AiLab", ["上海 ailab", "上海ai lab", "ailab"]),
 ]
 
 # ----------------------------------------------------------------------
@@ -191,6 +192,7 @@ COMPANY_FILE = {
     "恒生电子": "z其他笔试/other.md",
     "中国移动": "z其他笔试/other.md",
     "DeepSeek": "z其他笔试/other.md",
+    "上海 AiLab": None,
 }
 
 # 所有公司（用于校验），顺序即 README 中各小节的展示顺序
@@ -220,6 +222,7 @@ DATE_OVERRIDES = {
     "1f48e3e8d77246a48bf7287e430ecf05": (2026, 10, 14),  # 华为 非AI 10月14日
     "b847b906ed0b454280cafe8e9a80e4d5": (2026, 10, 21),  # 华为 非AI 10月21日
     "bd39e76d90d34b6fadb39ee3eb7b47a9": (2026, 10, 21),  # 华为 AI 10月21日
+    "1bc7ad1fd0a24c2d901bf4ddd09173ea": (2026, 11, 7),   # 上海 AiLab 11月7日
 }
 
 

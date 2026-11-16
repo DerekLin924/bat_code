@@ -111,6 +111,8 @@
 
 
 ### 中国电信
+[2026 中国电信笔试 中国电信11 月 14 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=995b86ad305c4584ac7a21b2edf320bd)
+
 [2026 中国电信笔试 中国电信10 月 31 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=49915c2710394bb98afa3cad2a96ff7c)
 
 [2026 中国电信笔试 中国电信10 月 17 日机考笔试题与解析](https://www.nowcoder.com/issue/tutorial?zhuanlanId=0ox5Z3&uuid=bf6f367767be4f978b7758e2a702672f)
